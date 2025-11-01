@@ -105,3 +105,26 @@ strong, b {
   font-weight: 600;
   color: #d4cfa1;
 }
+
+video.demo-video {
+  display: block;
+  margin: 1.5em auto;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border: 1px solid rgba(255, 255, 200, 0.15);
+  border-radius: 6px;
+  background: #0f0f0f;
+  box-shadow: 0 0 8px rgba(255, 255, 150, 0.08);
+}
+
+p > video.demo-video {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+.demo-video:hover {
+  box-shadow: 0 0 12px rgba(255, 255, 180, 0.15);
+  filter: brightness(1.05);
+}
