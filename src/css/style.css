@@ -1,0 +1,101 @@
+/* === Base Theme: Gruvbox-inspired === */
+:root {
+  --bg: #282828;
+  --bg-alt: #1d2021;
+  --fg: #ebdbb2;
+  --fg-muted: #bdae93;
+  --accent: #d3869b;
+  --link: #83a598;
+  --link-hover: #fabd2f;
+  --highlight: #b8bb26;
+  --code-bg: #3c3836;
+}
+
+/* === Global === */
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+  font-family: "Fira Code", "JetBrains Mono", monospace;
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+}
+
+/* Soft CRT-style glow */
+body {
+  text-shadow: 0 0 0.8px var(--fg-muted);
+}
+
+/* === Layout === */
+main {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+  background-color: var(--bg-alt);
+  border: 1px solid #3c3836;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+/* === Headings === */
+h1, h2, h3 {
+  color: var(--highlight);
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: var(--link);
+}
+
+/* === Links === */
+a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--link);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  border-color: var(--link-hover);
+}
+
+/* === Horizontal Rules === */
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #3c3836;
+  margin: 2.5rem 0;
+}
+
+/* === Lists === */
+ul {
+  padding-left: 1.4rem;
+}
+
+li {
+  margin: 0.4rem 0;
+}
+
+/* === Footer === */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--fg-muted);
+  padding: 2rem 0;
+}
+
+/* === Subtle terminal effect on hover === */
+main:hover {
+  box-shadow: 0 0 20px rgba(184, 187, 38, 0.15);
+  transition: box-shadow 0.3s ease;
+}
