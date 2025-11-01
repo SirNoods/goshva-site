@@ -8,9 +8,9 @@ A small collection of things I've built, broken and tinkered with.
 _This is an example page and shan't actually be live._
 
 ## Imaginary Category
-[My first post](/projects/my-first-post)
+[My first post](/my-first-post)
 
 ## Imaginary Second Category
 
-[My second post](/projects/my-second-post)
+[My second post](/my-second-post)
 

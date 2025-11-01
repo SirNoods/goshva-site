@@ -2,6 +2,6 @@
 title: example post
 layout: post.njk
 ---
+[← Back to Projects](/projects)
 
-help
-motherfucker part two
+This is an example page. The content here has not been written yet.

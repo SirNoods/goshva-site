@@ -1,5 +1,7 @@
 ---
-title: example post
+title: My first post
 layout: post.njk
 ---
-[→ Get in touch](/projects)
+[← Back to Projects](/projects)
+
+This is an example page. The content here has not been written yet.
