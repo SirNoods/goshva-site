@@ -2,15 +2,10 @@
 title: Projects
 layout: base.njk
 ---
-
+> 🛠️ This section is still under construction!
+> I’m currently collecting, cleaning up, and writing about my other projects, more coming soon.
 # Projects
 A small collection of things I've built, broken and tinkered with. 
 
-
-## Imaginary Category
-[My first post](/my-first-post)
-
-## Imaginary Second Category
-
-[My second post](/my-second-post)
+[Govee-CLI](/govee-cli)
 
