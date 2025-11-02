@@ -75,7 +75,7 @@ Cologne, 2019-2020
 
 ## 📫 Contact
 
-📧 [joshua@ka1schmidt.de]  
+📧 [joshua@ka1schmidt.de]
 🌐 [joshs.tech](#)
 💬 Available for work across Europe, open to relocation.
 
