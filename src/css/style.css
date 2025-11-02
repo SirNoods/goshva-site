@@ -16,7 +16,7 @@
 body {
   background-color: var(--bg);
   color: var(--fg);
-  font-family: "Ubuntu Mono", monospace;
+  font-family: 'Recursive', monospace;
   font-size: 17px;
   line-height: 1.7;
   margin: 0;
@@ -102,8 +102,8 @@ main:hover {
 }
 
 strong, b {
-  font-weight: 600;
-  color: #fabd2f;
+  font-weight: 500;
+  color: #d79921;
 }
 
 video.demo-video {
