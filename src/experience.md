@@ -40,7 +40,7 @@ Gained solid experience in 3D rigging, animation, and motion capture cleanup usi
 ---
 
 **Tools & Tech Used:**  
-Python • Linux • Tractor2 • GitLab • Jenkins • Maya • Nuke
+Python • Linux • Tractor2 • GitLab • Jenkins • Maya • Nuke • FTrack • Motive
 
 ---
 
@@ -68,7 +68,7 @@ Starting 100 musical projects (also on [strudel.cc](https://strudel.cc/)!) and r
 ## 🧩 Skills Snapshot
 
 **Languages & Tools:**  
-Python • Jira • Godot (GDScript) • Git • Linux • Bash • Nuke • Maya  
+Python • Jira • Godot (GDScript) • Git • Linux • Bash • Nuke • Maya • Blender  • FL Studio
 
 ---
 

@@ -18,7 +18,7 @@ title: "CV — Joshua Schmidt"
 
 VFX professional and lifelong tinkerer with a growing focus on Python development and systems automation.
 
-I bring a mix of **technical problem-solving**, **creative discipline**, and **automation experience** from the film industry — combining artistic precision with backend engineering skills.  
+I bring a mix of **technical problem-solving**, **creative discipline**, and **automation experience** from the film industry — combining artistic precision with back-end engineering skills.  
 Comfortable working with Python, Linux, and modern production pipelines.  
 
 ---
@@ -76,9 +76,9 @@ Cologne, 2019-2020
 ## 📫 Contact
 
 📧 [joshua@ka1schmidt.de]  
-🌐 [joshuaschmidt.dev](#) (replace with your domain)  
+🌐 [joshs.tech](#) (replace with your domain)  
 💬 Available for work across Europe, open to relocation.
 
 ---
 
-_This CV is a plaintext version for the web — a printable PDF version is available upon request._
+_This CV is a plaintext version for the web — a print-friendly PDF version is available upon request._
