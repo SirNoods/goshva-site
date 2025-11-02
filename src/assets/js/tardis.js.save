@@ -1,0 +1,16 @@
+// TARDIS script @ joshs.tech
+const TARDIS = ['t','a','r','d','i','s'];
+let buffer = [];
+
+window.addEventListener('keydown', e => {
+  buffer.push(e.key.toLowerCase());
+  // keep last 6 keys only
+  if (buffer.length > 6) buffer.shift();
+
+  if (buffer.join('') === TARDIS.join('')) {
+    activateTardisMode();
+    buffer = [];
+  }
+});
+
+

@@ -95,7 +95,6 @@ footer {
   padding: 2rem 0;
 }
 
-/* === Subtle terminal effect on hover === */
 main:hover {
   box-shadow: 0 0 20px rgba(184, 187, 38, 0.15);
   transition: box-shadow 0.3s ease;
@@ -127,4 +126,67 @@ p > video.demo-video {
 .demo-video:hover {
   box-shadow: 0 0 12px rgba(255, 255, 180, 0.15);
   filter: brightness(1.05);
+}
+
+.tardis-mode {
+  position: relative;
+  background: #000 url("/assets/tardis_1.png") center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #83a598;
+  transition: color 2s ease;
+}
+
+.tardis-mode::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(29, 32, 33, 0);
+  z-index: 0;
+  transition: background 3s ease-in-out;
+}
+
+.tardis-fadeout::before {
+  background: var(--bg);
+  transition: background 3s ease-in-out;
+}
+
+body.tardis-mode main,
+body.tardis-mode header,
+body.tardis-mode footer {
+  position: relative;
+  z-index: 1;
+  opacity: 0.6;
+  transition: opacity 2s ease-in;
+}
+
+body.tardis-fadeout main,
+body.tardis-fadeout header,
+body.tardis-fadeout footer {
+  opacity: 1;
+  transition: opacity 2s ease-out;
+}
+
+.tardis-overlay {
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Victor Mono', monospace;
+  font-size: 1.75rem;
+  color: #fabd2f;
+  text-shadow: 0 0 12px #458588;
+  z-index: 9999;
+  animation: tardisTextFade 8s forwards;
+  pointer-events: none;
+}
+
+@keyframes tardisTextFade {
+  0% { opacity: 0; transform: translate(-50%, -60%); }
+  10% { opacity: 1; transform: translate(-50%, -50%); }
+  80% { opacity: 1; }
+  100% { opacity: 0; transform: translate(-50%, -40%); }
 }

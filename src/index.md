@@ -4,10 +4,10 @@ layout: base.njk
 ---
 # Hello there.
 
-I'm **Joshua Schmidt**, Josh for short, a creative mind and nerd of many things, mainly fueled by caffeine and curiosity.
+I'm **Joshua**, Josh for short, a creative mind and nerd of many things, mainly fueled by caffeine.
 
-I've worked on **feature films** in a professional capacity, am building my first **game**, and tinker around with **music production**.  
-My background in **VFX** taught me precision and discipline; my love of **games and all things nerdy** keeps me experimental and playful.
+I've worked on **feature films** in a professional capacity, am in the process of building my first **game**, and tinker around with **music production**.  
+My background in **VFX** taught me precision and discipline; my love of games and all things nerdy keeps me experimental and curious.
 
 ---
 
@@ -27,6 +27,7 @@ I'm looking for opportunities in **technology** and **software development**, wh
 ---
 
 
+
 ### Side Note
-This site is my ongoing experiment, built by hand using [Eleventy](https://11ty.dev). 
+This site is my ongoing experiment.
 It grows, mutates, and occasionally crashes (as all good experiments do).

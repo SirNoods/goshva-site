@@ -5,10 +5,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ title or "Joshua Schmidt" }}</title>
-  <!-- update path if you later move css to /assets/css/ -->
   <link rel="stylesheet" href="/css/style.css" />
 </head>
-
+<script src="/assets/js/tardis.js" defer></script>
 <body>
   <header class="site-header">
     <div class="container">
@@ -22,7 +21,10 @@
       </nav>
     </div>
   </header>
-
+  <script>
+  console.log("%cHey there, curious dev!", "color:#fabd2f;font-size:16px;");
+  console.log("You found an easter egg. Want another? Type 'tardis' while on my site for a surprise!");
+  </script>
   <main class="site-main container">
     {{ content | safe }}
   </main>
