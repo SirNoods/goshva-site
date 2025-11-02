@@ -25,11 +25,11 @@ This was my first game in general, and my first gamejam. It taught me a ton abou
 ## Here's some footage I found:
 
 Playing around with _way_ too many projectiles as physical objects in the scene.
-<video controls class="demo-video"> <source src="/assets/antibodyDemo1.mp4" type="video/mp4"> </video>
+<video controls class="demo-video"> <source src="/assets/antibodydemo1.mp4" type="video/mp4"> </video>
 
 
 More polished, and including more assets, and with an actual enemy trying to get you!
-<video controls class="demo-video"> <source src="/assets/antibodyDemo2.mp4" type="video/mp4"> </video>
+<video controls class="demo-video"> <source src="/assets/antibodydemo2.mp4" type="video/mp4"> </video>
 ## Notes  
 It’s scrappy, messy, and a bit silly — but it was an incredibly fun way to learn.  
 The jam theme encouraged rapid prototyping, and I would quite like to revisit the idea, with some better planning, my newer skills and perhaps even slightly more research into immunology.
