@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projects - Joshua Schmidt
 layout: base.njk
 ---
 > 🛠️ This section is still under construction!

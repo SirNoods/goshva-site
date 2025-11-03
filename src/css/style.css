@@ -24,6 +24,16 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+header {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: center;
+}
+
+header nav a {
+  margin: 0 0.75rem;
+}
+
 /* Soft glow */
 body {
   text-shadow: 0 0 0.8px var(--fg-muted);

@@ -1,5 +1,5 @@
 ---
-title: experience
+title: Experience - Joshua Schmidt
 layout: base.njk
 ---
 # Experience

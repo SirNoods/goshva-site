@@ -6,11 +6,16 @@ title: "CV — Joshua Schmidt"
 # Curriculum Vitae
 
 **Name:** Joshua Schmidt  
+
 **Location:** Leipzig, Germany (open to relocation)  
-**Email:** [joshua@ka1schmidt.de]  
-**LinkedIn:** [linkedin.com/in/josh-schmidt](https://linkedin.com/in/josh-schmidt)  
-**GitHub:** [https://github.com/SirNoods](https://github.com/SirNoods)  
+
+**Email:** [joshua@ka1schmidt.de](mailto:joshua@ka1schmidt.de)
+
+**GitHub:** [https://github.com/SirNoods](https://github.com/SirNoods)
+
 **IMDb:** [imdb.com/name/nm15078878](https://www.imdb.com/name/nm15078878/?ref_=fn_all_nme_1)
+
+**LinkedIn:** [linkedin.com/in/josh-schmidt](https://linkedin.com/in/josh-schmidt)
 
 ---
 
@@ -75,8 +80,10 @@ Cologne, 2019-2020
 
 ## 📫 Contact
 
-📧 [joshua@ka1schmidt.de]
+📧 [joshua@ka1schmidt.de](mailto:joshua@ka1schmidt.de)
+
 🌐 [joshs.tech](#)
+
 💬 Available for work across Europe, open to relocation.
 
 ---
